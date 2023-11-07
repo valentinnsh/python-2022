@@ -20,3 +20,8 @@ target/
 .DS_Store
 Thumbs.db
 *.log
+
+# Data
+*.zip
+
+tasks/Task 1/random_functions_dump_test.dat
